@@ -24,7 +24,7 @@ Use these URLs in Google Cloud Console:
 - **Application home page**:
   `https://<your-github-username>.github.io/rclone-google-drive-app/`
 - **Application privacy policy link**:
-  `https://<your-github-username>.github.io/rclone-google-drive-app/privacy.html`
+  `https://<your-github-username>.github.io/rclone-google-drive-app/privacy`
 
 ## Google OAuth setup note
 
